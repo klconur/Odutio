@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "747715872175",
+    "project_id": "firebase-odutio"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747715872175:android:d001a608904304e7",
+        "android_client_info": {
+          "package_name": "com.okb.odutio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747715872175-ka0q24bs5jevm6hk82o8c71k94r9uied.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.okb.odutio",
+            "certificate_hash": "47a994016fd073a434f64108b342b1a12d673cbb"
+          }
+        },
+        {
+          "client_id": "747715872175-p7sb33fbdf7enk4i712fdvj0kvn9kehm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjReEMFOJH0W7EfzLDLZ7_-enNcpx9eEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

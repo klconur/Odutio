@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name" translatable="false">Odutio</string>
+    <string name="please_wait">Please wait</string>
+    <string name="continue_facebook">Continue with Facebook</string>
+    <string name="continue_google">Continue with Google</string>
+    <string name="facebook_app_id" translatable="false">1511241562228630</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb1511241562228630</string>
+    <string name="login_description">Odutio is an organic marketing application. You can make extra income with introducing to applications to your friends with Odutio. You will make extra income by each application installation.\n\nImportant: We transferring your income over Skrill. You need to have a Skrill account with your email. For more information about Skrill, you can visit www.skrill.com</string>
+    <string name="per_installation">/ per installation</string>
+    <string name="email_address">Your email address</string>
+    <string name="email_description">We are transferring your incomes via Skrill. You need to have a Skrill account with the email. Please create a Skrill account with your email if you do not have.</string>
+    <string name="your_income">Your income</string>
+    <string name="income_description">We are transferring your incomes when your income reaches $10. We will transfer your incomes automatically via Skrill.</string>
+    <string name="send_feedback">Send feedback</string>
+    <string name="share_whatsapp">Share via Whatsapp</string>
+    <string name="phone_number_message">Write phone number of your friend or find in contacts</string>
+    <string name="phone_number">phone number</string>
+    <string name="share">Share</string>
+    <string name="phone_number_warning">Please write a valid phone number</string>
+    <string name="contacts">Contacts</string>
+    <string name="select_number">Select a Phone Number</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_number">No phone number</string>
+    <string name="ok">Ok</string>
+    <string name="installed_warning">Sorry, the application is installed before</string>
+    <string name="apps">Apps</string>
+    <string name="log">Log</string>
+    <string name="no_data">NO RECORD</string>
+    <string name="approve">Click for approve</string>
+</resources>

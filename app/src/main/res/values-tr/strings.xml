@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="please_wait">Lütfen bekleyiniz</string>
+    <string name="continue_facebook">Facebook ile Devam Et</string>
+    <string name="continue_google">Google ile Devam Et</string>
+    <string name="login_description">Odutio bir organik pazarlama uygulamasıdır. Ek gelir elde etmek isteyen kişiler Odutio üzerinden uygulamaların tanıtımlarını yaparak para kazanabilirler. Bunun için çevrenizin geniş olması yeterlidir. Her uygulama kurulumundan para kazanıyorsunuz.\n\nÖnemli: Kazandığınız paralar hesabınıza Skrill üzerinden gönderilmektedir. Bu yüzden kaydolduğunuz email adresi ile bir Skrill hesabı açmanız gerekmektedir. Skrill hakkında detaylı bilgi için www.skrill.com \'u ziyaret ediniz.</string>
+    <string name="per_installation">/ her kuruluma</string>
+    <string name="email_address">Eposta adresiniz</string>
+    <string name="email_description">Ödemelerinizi bu eposta hesabına tanımlı Skrill hesabınıza yapıyoruz. Lütfen Skrill hesabınız yoksa bu eposta adresine tanımlı bir Skrill hesabı açınız.</string>
+    <string name="your_income">Geliriniz</string>
+    <string name="income_description">Ödemeleri geliriniz $10\'a ulaştığında yapıyoruz. Geliriniz $10\'a ulaştığında ödemeniz Skrill üzerinden otomatik olarak yapılacaktır.</string>
+    <string name="send_feedback">Sorularınızı gönderin</string>
+    <string name="share_whatsapp">Whatsapp ile Paylaş</string>
+    <string name="phone_number_message">Arkadaşınızın numarasını giriniz veya kişilerden seçiniz</string>
+    <string name="phone_number">telefon numarası</string>
+    <string name="share">Paylaş</string>
+    <string name="phone_number_warning">Lütfen geçerli bir numara giriniz</string>
+    <string name="contacts">Kişiler</string>
+    <string name="select_number">Bir Telefon Numarası Seçiniz</string>
+    <string name="cancel">İptal</string>
+    <string name="no_number">Telefon numarası yok</string>
+    <string name="ok">Tamam</string>
+    <string name="installed_warning">Üzgünüz, bu numara daha önce uygulamayı kurmuş</string>
+    <string name="apps">Uygulamalar</string>
+    <string name="log">Log</string>
+    <string name="no_data">KAYIT YOK</string>
+    <string name="approve">Onayla</string>
+</resources>
